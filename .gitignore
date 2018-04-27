@@ -57,10 +57,8 @@ artifacts/
 *.meta
 *.obj
 *.pch
-*.pdb
 *.pgc
 *.pgd
-*.rsp
 *.sbr
 *.tlb
 *.tli
